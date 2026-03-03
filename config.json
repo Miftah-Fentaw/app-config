@@ -1,6 +1,7 @@
 {
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "force_update_version": 1,
   "ads_enabled": true
 }
+
 
